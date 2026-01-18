@@ -46,6 +46,12 @@
 
 ---
 
+## Support
+
+- USDT (TRC20): `TA27e9E1hqB3iGJhf4FNp1U4FP9rWVF7HL`
+- Русская карта (МИР): `2200 7017 1528 7212`
+- Донат-ссылка: https://pay.cloudtips.ru/p/fc42043c
+
 <div align="center">
   <sub>Поддерживается <a href="https://github.com/amanomasato">@amanomasato</a></sub>
 </div>
