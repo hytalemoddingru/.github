@@ -46,6 +46,13 @@ We are a community of developers building open-source tools and infrastructure f
 
 ---
 
+
+## Support
+
+- USDT (TRC20): `TA27e9E1hqB3iGJhf4FNp1U4FP9rWVF7HL`
+- RU card (MIR): `2200 7017 1528 7212`
+- Payment link: https://pay.cloudtips.ru/p/fc42043c
+
 <div align="center">
   <sub>Maintained by <a href="https://github.com/amanomasato">@amanomasato</a></sub>
 </div>
